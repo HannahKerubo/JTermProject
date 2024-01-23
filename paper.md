@@ -27,7 +27,7 @@ Looking at the graph we can see that every county experienced growth. Counties l
 ## Table
 
 ![](#GRPtable)
-This table shows the first 5 rows of the data I analyzed. It shows the county, GRP in shillings, and the year to data was taken from. You can view the full table `here`.
+This table shows the first 5 rows of the data I analyzed. It shows the county, GRP in shillings, and the year to data was taken from. You can view the full table [here](DOSE_V2.csv).
 
 ## Equation
 
@@ -35,13 +35,11 @@ $ (\text{Value in 2017 column}) - (\text{Value in 2016 column}) = \text{Growth (
 
 ## Conclusion
 
-Analyzing information like this allows the tracking of the growth and decay of GRP in different counties in a country, further allowing us to compare which counties are doing better than others. We can then further use this data to determine what component of a county causes the higher growth in one county compared to others. Using this same logic on a larger scale the whole [DOSE report](https://rdcu.be/dwPLq) can be used to compare different countries as a whole.  
+Analyzing information like this allows the tracking of the growth and decay of GRP in different counties in a country, further allowing us to compare which counties are doing better than others. We can then further use this data to determine what component of a county causes the higher growth in one county compared to others. Using this same logic on a larger scale the whole [DOSE report](https://rdcu.be/) can be used to compare different countries as a whole.  
 
 ## References
 
-Bourne, Philip E., Clark, Timothy W., Dale, Robert, De Waard, Anita, Herman, Ivan, Hovy, Eduard H., Shotton, David. (2012)"Improving The Future of Research Communications and e-Scholarship". FORCE11. doi:10.4230/DAGMAN.1.1.41
-
-Head, A., Lo, K., Kang, D., Fok, R., Skjonsberg, S., Weld, D. S., & Hearst, M. A. (2021, May). Augmenting Scientific Papers with Just-in-Time, Position-Sensitive Definitions of Terms and Symbols. Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems. 10.1145/3411764.3445648
+L. Wenz, R.D. Carr, N. Koegel, M. Kotz, M. Kalkuhl. DOSE – Global data set of reported sub-national economic output. Nature Scientific Data. 2023. https://doi.org/10.1038/s41597-023-02323-
 
 [2i2c]: https://2i2c.org/
 [curvenote]: https://curvenote.com
