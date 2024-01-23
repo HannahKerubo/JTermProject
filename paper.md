@@ -27,14 +27,15 @@ Looking at the graph we can see that every county experienced growth. Counties l
 ## Table
 
 ![](#GRPtable)
-This table shows the first 6 rows of the data I analyzed. Click here to view the full table
+This table shows the first 5 rows of the data I analyzed. It shows the county, GRP in shillings, and the year to data was taken from. You can view the full table `here`.
+
 ## Equation
 
-$ (\text{Value in 2017 colum}) - (\text{Value in 2016 colum}) = \text{Growth (in GRP) that a county had in a year} $
+$ (\text{Value in 2017 column}) - (\text{Value in 2016 column}) = \text{Growth (in GRP) that a county had in a year} $
 
 ## Conclusion
 
-There are many opportunities to improve open-science communication, to make it more interactive, accessible, more reproducible, and both produce and use structured data throughout the research-writing process. The `mystjs` ecosystem of tools is designed with structured data at its core. We would love if you gave it a try -- learn to get started at <https://myst.tools>.
+Analyzing information like this allows the tracking of the growth and decay of GRP in different counties in a country, further allowing us to compare which counties are doing better than others. We can then further use this data to determine what component of a county causes the higher growth in one county compared to others. Using this same logic on a larger scale the whole `DOSE report` can be used to compare different countries as a whole.  
 
 ## References
 
