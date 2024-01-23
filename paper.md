@@ -27,21 +27,10 @@ Looking at the graph we can see that every county experienced growth. Counties l
 ## Table
 
 ![](#GRPtable)
-
+This table shows the first 6 rows of the data I analyzed. Click here to view the full table
 ## Equation
 
 $ (\text{Value in 2017 colum}) - (\text{Value in 2016 colum}) = \text{Growth (in GRP) that a county had in a year} $
-
-## References
-
-![](./images/citations.png)
-**Figure 1**: Citations are rendered with a popup directly inline.
-
-
-
-To d [`myst-spec`](https://spec.myst.tools), that aims to capture this information and transform it between many different formats, like PDF, Word, JSON, and JATS XML (Figure 4). This specification is arrived at through a community-centric MyST Enhancement Proposal ([MEP](https://compass.executablebooks.org/en/latest/meps.html)) process.
-
-
 
 ## Conclusion
 
