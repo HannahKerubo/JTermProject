@@ -35,7 +35,7 @@ $ (\text{Value in 2017 column}) - (\text{Value in 2016 column}) = \text{Growth (
 
 ## Conclusion
 
-Analyzing information like this allows the tracking of the growth and decay of GRP in different counties in a country, further allowing us to compare which counties are doing better than others. We can then further use this data to determine what component of a county causes the higher growth in one county compared to others. Using this same logic on a larger scale the whole `DOSE report` can be used to compare different countries as a whole.  
+Analyzing information like this allows the tracking of the growth and decay of GRP in different counties in a country, further allowing us to compare which counties are doing better than others. We can then further use this data to determine what component of a county causes the higher growth in one county compared to others. Using this same logic on a larger scale the whole [DOSE report](https://rdcu.be/dwPLq) can be used to compare different countries as a whole.  
 
 ## References
 
