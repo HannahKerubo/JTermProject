@@ -30,7 +30,7 @@ Looking at the graph we can see that every county experienced growth. Counties l
 
 ## Equation
 
-### (Value in 2017 colum) - (Value in 2016 colum) = Growth (in GRP) that a county had in a year
+$ (/text{Value in 2017 colum}) - (/text{Value in 2016 colum}) = /text{Growth (in GRP) that a county had in a year} $
 
 ## References
 
